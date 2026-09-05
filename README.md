@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://echoflow.one">
-    <img src="https://echoflow.one/images/og-marketing-context-aware-dictation.jpg" alt="Echo Flow — private, AI-polished dictation for Mac" width="100%">
+    <img src="https://echoflow.one/images/og-v2-dictation.png" alt="Echo Flow — private, AI-polished dictation for Mac" width="100%">
   </a>
 </p>
 
@@ -71,9 +71,9 @@ No re-typing. No cleaning up filler words by hand. Echo Flow transcribes on-devi
 | 💳 **One-time purchase** | No subscription. **14-day dictation trial, no credit card.** One license covers up to three Macs you personally use, all 1.x updates included. |
 
 <p align="center">
-  <img src="https://echoflow.one/images/marketing-reads-the-room.png" alt="Smart Context adapts tone per app" width="31%">
-  <img src="https://echoflow.one/images/marketing-transform-text.png" alt="Rewrite palette transforms selected text" width="31%">
-  <img src="https://echoflow.one/images/marketing-on-device-privacy.png" alt="On-device privacy" width="31%">
+  <img src="https://echoflow.one/images/og-v2-context.png" alt="Smart Context adapts tone per app" width="31%">
+  <img src="https://echoflow.one/images/og-v2-palette.png" alt="Rewrite palette transforms selected text" width="31%">
+  <img src="https://echoflow.one/images/og-v2-privacy.png" alt="On-device privacy" width="31%">
 </p>
 <p align="center"><sub>Smart Context per-app tone · Rewrite palette anywhere · On-device by default. Full tour: <a href="https://echoflow.one/features.html">echoflow.one/features.html</a></sub></p>
 
